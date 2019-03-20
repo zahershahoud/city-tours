@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$mainBlack:  #4d4d4d;
+$mainGreen: #79c24e;
+$mainWhite: #fff;
+$mainGrey: #ececec;
+$mainBlue: #00aced ;
+$mainPurple: #847480 ;
+
+
+
+body {
+    background: $mainWhite;
+    color: $mainBlack;
+    font-family: 'Open Sans', sans-serif;
+}
+
